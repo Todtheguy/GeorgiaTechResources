@@ -20,7 +20,7 @@ Contribute by submitting an issue!
 - [GT Sublease Facebook Group](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates) - Advertise your GT sublease or look for GT subleases here
 
 ## 💼 Career / Internships
-- [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home)
+- [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home) - Apply for internships that are only avaliable to Georgia Tech Students
 
 
 ## Other
