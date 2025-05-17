@@ -22,7 +22,7 @@ Contribute by submitting an issue or making a pr!
 - [GT Engage](https://gatech.campuslabs.com/engage) - View all clubs and their upcoming events
 - [GT Campus Tickets](https://studentcenter.gatech.edu/tickets) - Get Tickets for GT Events
 
-## Health
+## 🏥 Health
 - [Stamps](https://health.gatech.edu) - Stamps Health Services is Georgia Tech’s on-campus clinic offering medical, mental health, pharmacy, and wellness services to students and their spouses/domestic partners. 
 
 ## 🏠 Housing
