@@ -2,7 +2,7 @@
 
 A curated list of resources, tools, and scripts useful for Georgia Tech students. Whether you're planning your schedule, tracking classes, or looking for housing and study help — this repo has you covered.  
 
-Contribute by submitting an issue!  
+Contribute by submitting an issue or making a pr!  
 
 
 ## 📅 Course Planning
