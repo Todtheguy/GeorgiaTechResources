@@ -13,7 +13,7 @@ Contribute by submitting an issue!
 - [r/gatech](https://www.reddit.com/r/gatech/)
 - [GT Transfers Discord](https://discord.gg/CACBDaJeTy)
 
-## Clubs
+## 🗣️ Clubs
 - [GT Engage](https://gatech.campuslabs.com/engage) - View all clubs and their upcoming events
 
 ## 🏠 Housing
