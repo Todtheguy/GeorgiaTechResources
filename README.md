@@ -5,7 +5,7 @@ A curated list of resources, tools, and scripts useful for Georgia Tech students
 ---
 
 ## 📅 Course Planning
-- [GT Scheduler](https://oscar.gatech.edu/) – Visual schedule builder using GT's course data.
+- [GT Scheduler](https://www.gt-scheduler.org) – Go-to tool for building your class schedule visually and easily.
 - [Coursicle](https://www.coursicle.com/gt/) – Get notified when a class opens up.
 - [Courseoff](https://gt.courseoff.com/) – Alternative schedule planner.
 - [Register4Me](https://github.com/GTBitsOfGood/Register4Me) – Auto-register for classes when they open.
