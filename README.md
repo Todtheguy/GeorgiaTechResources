@@ -4,6 +4,11 @@ A curated list of resources, tools, and scripts useful for Georgia Tech students
 
 Contribute by submitting an issue or making a pr!  
 
+---
+
+## 💼 Career / Internships
+- [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home) - Apply for internships that are only avaliable to Georgia Tech Students
+
 ## 💬 Communities
 - [r/gatech](https://www.reddit.com/r/gatech/)
 - [GT Transfers Discord](https://discord.gg/CACBDaJeTy)
@@ -17,18 +22,15 @@ Contribute by submitting an issue or making a pr!
 - [GT Engage](https://gatech.campuslabs.com/engage) - View all clubs and their upcoming events
 - [GT Campus Tickets](https://studentcenter.gatech.edu/tickets) - Get Tickets for GT Events
 
-## Transportation
-- TransLoc - app to track campus bus locations
-- [GT Bus Schedules](https://www.pts.gatech.edu/shuttles/stinger/) - View GT Stinger Bus Schedules
-
-# Health
+## Health
 - [Stamps](https://health.gatech.edu) - Stamps Health Services is Georgia Tech’s on-campus clinic offering medical, mental health, pharmacy, and wellness services to students and their spouses/domestic partners. 
 
 ## 🏠 Housing
 - [GT Sublease Facebook Group](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates) - Advertise your GT sublease or look for GT subleases here
 
-## 💼 Career / Internships
-- [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home) - Apply for internships that are only avaliable to Georgia Tech Students
+## 🚐 Transportation
+- TransLoc - app to track campus bus locations
+- [GT Bus Schedules](https://www.pts.gatech.edu/shuttles/stinger/) - View GT Stinger Bus Schedules
 
 ## Other
 - [Klemis Kitchen](https://star.studentlife.gatech.edu/klemis-kitchen) - Georgia Tech's Free Food Pantry for students in Need
