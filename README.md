@@ -23,7 +23,8 @@ Contribute by submitting an issue or making a pr!
 - [GT Campus Tickets](https://studentcenter.gatech.edu/tickets) - Get Tickets for GT Events
 
 ## 🏥 Health
-- [Stamps](https://health.gatech.edu) - Stamps Health Services is Georgia Tech’s on-campus clinic offering medical, mental health, pharmacy, and wellness services to students and their spouses/domestic partners. 
+- [Stamps](https://health.gatech.edu) - Stamps Health Services is Georgia Tech’s on-campus clinic offering medical, mental health, pharmacy, and wellness services to students and their spouses/domestic partners.
+- [Therapy](https://app.uwill.com/dashboard) - Free 4 sessions of Therapy for Georgia Tech Students
 
 ## 🏠 Housing
 - [GT Sublease Facebook Group](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates) - Advertise your GT sublease or look for GT subleases here
