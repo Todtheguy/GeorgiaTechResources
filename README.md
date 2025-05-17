@@ -15,6 +15,7 @@ Contribute by submitting an issue!
 
 ## 🗣️ Clubs
 - [GT Engage](https://gatech.campuslabs.com/engage) - View all clubs and their upcoming events
+- [GT Campus Tickets](https://studentcenter.gatech.edu/tickets) - Get Tickets for GT Events
 
 ## 🏠 Housing
 - [GT Sublease Facebook Group](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates) - Advertise your GT sublease or look for GT subleases here
@@ -23,7 +24,5 @@ Contribute by submitting an issue!
 - [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home) - Apply for internships that are only avaliable to Georgia Tech Students
 
 
-## Other
-- [GT Campus Tickets](https://studentcenter.gatech.edu/tickets) - Get Tickets for GT Events
 
 
