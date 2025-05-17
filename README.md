@@ -6,8 +6,8 @@ Contribute by submitting an issue!
 
 
 ## 📅 Course Planning
-- [GT Scheduler](https://www.gt-scheduler.org) – Go-to tool for building your class schedule visually and easily.
-- [Coursicle](https://www.coursicle.com) – Get notified when a class opens up.
+- [GT Scheduler](https://www.gt-scheduler.org) – Go-to tool for building your class schedule visually and easily
+- [Coursicle](https://www.coursicle.com) – Get notified when a class opens up
 
 ## 💬 Communities
 - [r/gatech](https://www.reddit.com/r/gatech/)
