@@ -18,11 +18,19 @@ Contribute by submitting an issue or making a pr!
 - [GT Engage](https://gatech.campuslabs.com/engage) - View all clubs and their upcoming events
 - [GT Campus Tickets](https://studentcenter.gatech.edu/tickets) - Get Tickets for GT Events
 
+## Transportation
+- TransLoc - app to track campus bus locations
+
 ## 🏠 Housing
 - [GT Sublease Facebook Group](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates) - Advertise your GT sublease or look for GT subleases here
 
 ## 💼 Career / Internships
 - [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home) - Apply for internships that are only avaliable to Georgia Tech Students
+
+## Other
+- [Klemis Kitchen](https://star.studentlife.gatech.edu/klemis-kitchen) - Georgia Tech's Free Food Pantry for students in Need
+- Waitz - App to check how many people are in Georgia Tech Study Areas
+
 
 
 
