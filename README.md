@@ -10,7 +10,7 @@ Contribute by submitting an issue!
 - [Coursicle](https://www.coursicle.com) – Get notified when a class opens up.
 
 ## 🏠 Housing
-- [Sublease Facebook Groups](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates)
+- [GT Sublease Facebook Group](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates) - Advertise your GT sublease or look for GT subleases here
 
 ## 💼 Career / Internships
 - [GT CareerBuzz](https://gatech-csm.symplicity.com/students/app/home)
