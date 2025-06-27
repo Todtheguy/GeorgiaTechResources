@@ -28,7 +28,7 @@ Contribute by submitting an issue or making a pr!
 
 ## 🏠 Housing
 - [GT Sublease Facebook Group](https://www.facebook.com/groups/GeorgiaTechSubleasesRoommates) - Advertise your GT sublease or look for GT subleases here
-- [GT Off Campus Housing Marketplace] (https://offcampus.housing.gatech.edu/) - All things off-campus housing for GT including lease options and subleases
+- [GT Off Campus Housing Marketplace](https://offcampus.housing.gatech.edu/) - All things off-campus housing for GT including lease options and subleases
 
 ## 🚐 Transportation
 - TransLoc - app to track campus bus locations
